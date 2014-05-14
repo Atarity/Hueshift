@@ -1,7 +1,11 @@
 Hueshift
 ========
 
-Adobe Photoshop script for hue property step-by-step shifting.
+Adobe Photoshop script which generates new layers by shifting hue property step-by-step. Below you can see video which compiled from 1 440 separate .jpg's generated this way.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TFIt0O_wfW0
+" target="_blank"><img src="http://img.youtube.com/vi/TFIt0O_wfW0/0.jpg" 
+alt="Hueshift demo" width="600" border="10" /></a>
 
 ## Usage
 
